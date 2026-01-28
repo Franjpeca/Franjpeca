@@ -8,7 +8,7 @@
 
 ## 🔭 Acerca de mí
 
-Soy un apasionado de los datos, los pipelines automatizados y las soluciones que combinan calidad técnica con impacto real.  
+Soy ingeniero informático centrado en la ingenieria de datos, machine learning e inteligencia artificial. Las soluciones que combinan calidad técnica con impacto real.  
 Trabajo con herramientas modernas de datos y foco en reproducibilidad.
 
 Actualmente construyendo y mejorando mis habilidades y proyectos en:
