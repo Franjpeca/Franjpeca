@@ -47,7 +47,8 @@ Un proyecto para construir un pipeline integral de detección de fraude, con ing
 ---
 
 ### 🛠️ **Pipeline con Kedro**
-Estructura de pipeline modular y reproducible con Kedro, diseñando flujos de ETL claros y testables.
+Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalabra y trazable para diseñar y reproducir experimentos de machine learning.
+En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
 📌 Repositorio:  
 `github.com/tuusuario/kedro-pipelines`
