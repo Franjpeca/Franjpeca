@@ -38,8 +38,9 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 ## 💡 Proyectos Destacados
 
 ### 🚧 **Data Fraud Pipeline (en desarrollo)**
-Proyecto con arquitectura basada en microservicios, se busca construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados en tiempo real.  
-🔍 Actualmente en desarrollo y evolucionando en la estructura de datos y lógica de scoring.
+Proyecto con arquitectura basada en microservicios. 
+Se busca construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados en tiempo real.  
+🔍 Actualmente en desarrollo
 
 📌 Repositorio:  
 `github.com/Franjpeca/data-fraud-pipeline`
@@ -47,7 +48,7 @@ Proyecto con arquitectura basada en microservicios, se busca construir un pipeli
 ---
 
 ### 🛠️ **Pipeline con Kedro**
-Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalabra y trazable para diseñar y reproducir experimentos de machine learning.
+Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalable y trazable para diseñar y reproducir experimentos de machine learning.
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
 📌 Repositorio:  
