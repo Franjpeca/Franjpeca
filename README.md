@@ -42,7 +42,7 @@ Proyecto con arquitectura basada en microservicios, se busca construir un pipeli
 🔍 Actualmente en desarrollo y evolucionando en la estructura de datos y lógica de scoring.
 
 📌 Repositorio:  
-`github.com/tuusuario/data-fraud-pipeline`
+`github.com/Franjpeca/data-fraud-pipeline`
 
 ---
 
@@ -51,7 +51,7 @@ Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una b
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
 📌 Repositorio:  
-`github.com/tuusuario/kedro-pipelines`
+`github.com/Franjpeca/kedro-pipelines`
 
 ---
 
