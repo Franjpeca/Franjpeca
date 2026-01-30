@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Francisco Pérez</h1>
 
 <p align="center">
-📍 Junior Data & ML Engineer  
+ Junior Data & ML Engineer  
 </p>
 
 ---
