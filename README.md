@@ -8,8 +8,8 @@
 
 ## 🔭 Acerca de mí
 
-Soy ingeniero informático centrado en la ingenieria de datos, machine learning e inteligencia artificial. Las soluciones que combinan calidad técnica con impacto real.  
-Trabajo con herramientas modernas de datos y foco en reproducibilidad.
+Soy ingeniero informático centrado en la ingenieria de datos, machine learning e inteligencia artificial.
+Trabajo con herramientas modernas de datos, estándares y buenas practicas del ámbito.
 
 Actualmente construyendo y mejorando mis habilidades y proyectos en:
 - Data Engineering  
@@ -38,7 +38,7 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 ## 💡 Proyectos Destacados
 
 ### 🚧 **Data Fraud Pipeline (en desarrollo)**
-Un proyecto para construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados.  
+Proyecto con arquitectura basada en microservicios, se busca construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados en tiempo real.  
 🔍 Actualmente en desarrollo y evolucionando en la estructura de datos y lógica de scoring.
 
 📌 Repositorio:  
@@ -58,6 +58,6 @@ En este proyecto se aplica un problema prediccion en tiempo real de altura de ol
 ## 📫 Contacto
 
 📧 franjpeca@gmail.com  
-🔗 linkedin.com/in/franciscoperez  
+🔗 linkedin.com/in/francisco-perez-castillo/
 
 ---
