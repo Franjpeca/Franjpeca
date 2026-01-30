@@ -43,7 +43,7 @@ Se busca construir un pipeline integral de detección de fraude, con ingestión,
 🔍 Actualmente en desarrollo
 
 📌 Repositorio:  
-`github.com/Franjpeca/data-fraud-pipeline`
+`[github.com/Franjpeca/data-fraud-pipeline](https://github.com/Franjpeca/kafka-spark-fraud-detection)`
 
 ---
 
@@ -52,7 +52,7 @@ Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una b
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
 📌 Repositorio:  
-`github.com/Franjpeca/kedro-pipelines`
+`[github.com/Franjpeca/kedro-pipelines](https://github.com/Franjpeca/TFG)`
 
 ---
 
