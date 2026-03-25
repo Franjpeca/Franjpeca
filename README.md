@@ -45,7 +45,7 @@ Se busca construir un pipeline integral de detección de fraude, con ingestión,
 📌 Repositorio:  
 `github.com/Franjpeca/kafka-spark-fraud-detection`
 
-
+****
 
 ### 🛠️ **Pipeline con Kedro**
 Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalable y trazable para diseñar y reproducir experimentos de machine learning.
@@ -54,6 +54,7 @@ En este proyecto se aplica un problema prediccion en tiempo real de altura de ol
 📌 Repositorio:  
 `github.com/Franjpeca/TFG`
 
+****
 
 ### 💰 **Sistema de alertas de Golden Cross en bolsa**
 Sistema de alertas por correo de Golden Cross en datos de Yahoo Finance. El sistema obtiene datos a través de la API de Yahoo Finance, calcula y detecta Golden Cross y notifica a usuarios por correo de ello. Se encuentra incorporado un script en bash para poder automatizar dicho sistema.
