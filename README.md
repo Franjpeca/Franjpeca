@@ -12,9 +12,9 @@ Soy ingeniero informático centrado en la ingenieria de datos, machine learning 
 Trabajo con herramientas modernas de datos, estándares y buenas practicas del ámbito.
 
 Actualmente construyendo y mejorando mis habilidades y proyectos en:
-- Data Engineering  
+- Data Engineering 
 - Machine Learning Engineering  
-- Ingeniería de IA  
+- AI Engineering  
 
 ---
 
