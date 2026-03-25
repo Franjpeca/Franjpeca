@@ -58,7 +58,7 @@ En este proyecto se aplica un problema prediccion en tiempo real de altura de ol
 ### 💰 **Sistema de alertas de Golden Cross en bolsa**
 Sistema de alertas por correo de Golden Cross en datos de Yahoo Finance. El sistema obtiene datos a través de la API de Yahoo Finance, calcula y detecta Golden Cross y notifica a usuarios por correo de ello. Se encuentra incorporado un script en bash para poder automatizar dicho sistema.
 📌 Repositorio:  
-`[github.com/Franjpeca/TFG](https://github.com/Franjpeca/wma-cross-alerts)`
+`https://github.com/Franjpeca/wma-cross-alerts`
 
 
 ---
