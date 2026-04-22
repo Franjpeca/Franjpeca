@@ -43,7 +43,7 @@ Proyecto con arquitectura basada en microservicios.
 Se centra en la gestión de incidencias y en su análisis automático mediante reglas y modelos de lenguaje, integrando API REST, persistencia y validación de flujos completos mediante testing E2E.
 
 📌 Repositorio:
-github.com/Franjpeca/incident-intelligence-platform
+`github.com/Franjpeca/incident-intelligence-platform`
 
 ---
 
