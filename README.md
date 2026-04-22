@@ -42,8 +42,7 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 Proyecto con arquitectura basada en microservicios.
 Se centra en la gestión de incidencias y en su análisis automático mediante reglas y modelos de lenguaje, integrando API REST, persistencia y validación de flujos completos mediante testing E2E.
 
-📌 Repositorio:
-[incident-intelligence-platform](https://github.com/Franjpeca/incident-intelligence-platform)
+📌 Repositorio:  [incident-intelligence-platform](https://github.com/Franjpeca/incident-intelligence-platform)
 
 ---
 
@@ -52,8 +51,7 @@ Proyecto con arquitectura basada en microservicios.
 Se busca construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados en tiempo real.  
 🔍 Actualmente en desarrollo
 
-📌 Repositorio:  
-[kafka-spark-fraud-detection](https://github.com/Franjpeca/kafka-spark-fraud-detection)
+📌 Repositorio:  [kafka-spark-fraud-detection](https://github.com/Franjpeca/kafka-spark-fraud-detection)
 
 
 ---
@@ -62,16 +60,14 @@ Se busca construir un pipeline integral de detección de fraude, con ingestión,
 Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalable y trazable para diseñar y reproducir experimentos de machine learning.
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
-📌 Repositorio:  
-[TFG](https://github.com/Franjpeca/TFG)
+📌 Repositorio:  [TFG](https://github.com/Franjpeca/TFG)
 
 ---
 
 ### 💰 **Sistema de alertas de Golden Cross en bolsa**
 Sistema de alertas por correo de Golden Cross en datos de Yahoo Finance. El sistema obtiene datos a través de la API de Yahoo Finance, calcula y detecta Golden Cross y notifica a usuarios por correo de ello. Se encuentra incorporado un script en bash para poder automatizar dicho sistema.
 
-📌 Repositorio:  
-[wma-cross-alerts](https://github.com/Franjpeca/wma-cross-alerts)
+📌 Repositorio:  [wma-cross-alerts](https://github.com/Franjpeca/wma-cross-alerts)
 
 
 ---
