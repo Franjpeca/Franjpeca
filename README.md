@@ -37,6 +37,16 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
 ## 💡 Proyectos Destacados
 
+⚙️ Incident Intelligence Platform
+
+Proyecto con arquitectura basada en microservicios.
+Se centra en la gestión de incidencias y en su análisis automático mediante reglas y modelos de lenguaje, integrando API REST, persistencia y validación de flujos completos mediante testing E2E.
+
+📌 Repositorio:
+github.com/Franjpeca/incident-intelligence-platform
+
+---
+
 ### 🚧 **Data Fraud Pipeline (en desarrollo)**
 Proyecto con arquitectura basada en microservicios. 
 Se busca construir un pipeline integral de detección de fraude, con ingestión, procesamiento y modelos supervisados en tiempo real.  
