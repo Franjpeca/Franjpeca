@@ -43,7 +43,7 @@ Proyecto con arquitectura basada en microservicios.
 Se centra en la gestión de incidencias y en su análisis automático mediante reglas y modelos de lenguaje, integrando API REST, persistencia y validación de flujos completos mediante testing E2E.
 
 📌 Repositorio:
-[github.com/Franjpeca/incident-intelligence-platform](https://github.com/Franjpeca/incident-intelligence-platform)
+[incident-intelligence-platform](https://github.com/Franjpeca/incident-intelligence-platform)
 
 ---
 
@@ -53,7 +53,8 @@ Se busca construir un pipeline integral de detección de fraude, con ingestión,
 🔍 Actualmente en desarrollo
 
 📌 Repositorio:  
-`github.com/Franjpeca/kafka-spark-fraud-detection`
+[kafka-spark-fraud-detection](https://github.com/Franjpeca/kafka-spark-fraud-detection)
+
 
 ---
 
@@ -62,7 +63,7 @@ Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una b
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
 📌 Repositorio:  
-`github.com/Franjpeca/TFG`
+[TFG](https://github.com/Franjpeca/TFG)
 
 ---
 
@@ -70,7 +71,7 @@ En este proyecto se aplica un problema prediccion en tiempo real de altura de ol
 Sistema de alertas por correo de Golden Cross en datos de Yahoo Finance. El sistema obtiene datos a través de la API de Yahoo Finance, calcula y detecta Golden Cross y notifica a usuarios por correo de ello. Se encuentra incorporado un script en bash para poder automatizar dicho sistema.
 
 📌 Repositorio:  
-`https://github.com/Franjpeca/wma-cross-alerts`
+[wma-cross-alerts](https://github.com/Franjpeca/wma-cross-alerts)
 
 
 ---
