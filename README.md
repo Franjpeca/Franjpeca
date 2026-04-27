@@ -56,7 +56,7 @@ Se busca construir un pipeline integral de detección de fraude, con ingestión,
 
 ---
 
-### 🛠️ **Pipeline con Kedro**
+### 🛠️ **Estudio de altura de ola aplicando modelos avanzados de Machine Learning usando pipelines con Kedro**
 Estructura de pipeline modular y reproducible con Kedro, permitiendo tener una base escalable y trazable para diseñar y reproducir experimentos de machine learning.
 En este proyecto se aplica un problema prediccion en tiempo real de altura de ola, usando modelos concretos para resolver este tipo de problemas.
 
